@@ -8,10 +8,10 @@ Dependencies:
 With composer:
 
 ```sh
-$ composer config repositories.welpixel-magento2-weltpixel-backend git https://github.com/Weltpixel/magento2-weltpixel-backend.git
+$ composer config repositories.weltpixel-magento2-weltpixel-backend git https://github.com/Weltpixel/magento2-weltpixel-backend.git
 $ composer require weltpixel/magento2-weltpixel-backend:dev-master
 
-$ composer config repositories.m2-weltpixel-magento2-weltpixel-google-tag-manager git https://github.com/Weltpixel/magento2-weltpixel-google-tag-manager.git
+$ composer config repositories.weltpixel-magento2-weltpixel-google-tag-manager git https://github.com/Weltpixel/magento2-weltpixel-google-tag-manager.git
 $ composer require weltpixel/magento2-weltpixel-google-tag-manager:dev-master
 ```
 
